@@ -10,11 +10,11 @@ const Header = () => {
           </a>
       </div>
       <div className="navbar-menu hidden md:block ">
-            <a target="_blank"  href="https://intranet.tintasverginia.com.br/"  className="block lg:inline-block mt-4 lg:mt-0 mr-10 font-bold text-yellow-50 hover:text-indigo-600" rel="noreferrer">
+            <a href="https://intranet.tintasverginia.com.br/"  className="block lg:inline-block mt-4 lg:mt-0 mr-10 font-bold text-yellow-50 hover:text-indigo-600" rel="noreferrer" target="_blank">
               INTRANET
             </a>
 
-            <a target="_blank" className="block lg:inline-block mt-4 lg:mt-0 mr-10 font-bold text-yellow-50 hover:text-indigo-600" href="https://clube.tintasverginia.com.br/" rel="noreferrer">
+            <a href="https://clube.tintasverginia.com.br/" className="block lg:inline-block mt-4 lg:mt-0 mr-10 font-bold text-yellow-50 hover:text-indigo-600" target="_blank" rel="noreferrer">
               CLUBE
             </a>
 
