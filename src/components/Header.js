@@ -5,7 +5,7 @@ const Header = () => {
   return (
 <nav className="flex flex-wrap  justify-between  p-8 mx-auto max-w-7xl px-4 sm:px-6 md:px-8 ">
       <div className=" flex items-center">
-          <a className="flex-shrink-0" href="">
+          <a className="flex-shrink-0" href="https://intranet.tintasverginia.com.br/">
             <img src="https://ebookpintor.tintasverginia.com.br/wp-content/themes/tintasverginia-lp/img/tintasverginia-logo.png" alt="" width="150" height="150"/>
           </a>
       </div>
